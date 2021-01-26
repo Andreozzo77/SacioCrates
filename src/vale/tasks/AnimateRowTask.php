@@ -15,8 +15,6 @@ use vale\Utils;
 
 class AnimateRowTask extends Task
 {
-
-
 	public int $seconds = 30;
 	/**
 	 * @var Player
