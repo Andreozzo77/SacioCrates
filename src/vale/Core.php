@@ -15,13 +15,12 @@ use vale\events\CoreListener;
 
 class Core extends PluginBase
 {
-
 	/** @var Core $instance */
-	public static  $instance;
+	public static Core  $instance;
 	/** @var Config $crateData */
-	public static $crateData;
+	public static Config $crateData;
 	/** @var Config $keyData */
-	public static $keyData;
+	public static Config $keyData;
 
 	public function onEnable(): void
 	{
