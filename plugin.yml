@@ -1,0 +1,7 @@
+name: SacioCharms
+version: 1.0.0
+api: 3.0.0
+main: vale\Core
+description: "SacioPvP charms Plugin"
+authors:
+  - xvqle
